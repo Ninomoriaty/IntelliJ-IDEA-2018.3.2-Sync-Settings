@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*,config" type="Groovy" />
+      <mapping ext="nf" type="Groovy" />
+      <mapping ext="mkd" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
