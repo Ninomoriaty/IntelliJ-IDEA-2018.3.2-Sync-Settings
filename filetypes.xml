@@ -6,6 +6,7 @@
       <mapping pattern="*,config" type="Groovy" />
       <mapping ext="nf" type="Groovy" />
       <mapping ext="mkd" type="Markdown" />
+      <mapping ext="iso" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
